@@ -2,8 +2,7 @@
 #include <cstdio>
 #include <cstring>
 
-using namespace std;
-
+using namespace std;  
 struct ComandaHistorica {
     char fecha[11];
     char nombreMozo[50];
